@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://takabodesu.github.io"
+baseurl = "https://takabodesu.github.io/yobi/"
 languageCode = "ja"
 paginate = 5
 title = "たかぼーぶろぐ"
